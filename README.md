@@ -1,2 +1,3 @@
-# auto-recommendation-engine-u8hx
-Automated issue comment bot repository
+# Auto Recommendation Engine U8Hx
+
+Automated issue comment bot repository.
